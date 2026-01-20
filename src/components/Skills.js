@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaHtml5, FaCss3Alt,FaReact, FaNodeJs } from "react-icons/fa";
-import { IoLogoJavascript,IoLogoFirebase } from "react-icons/io5";
+import { IoLogoJavascript } from "react-icons/io5";
 import {RiTailwindCssFill, RiFlutterFill, RiNextjsLine} from "react-icons/ri";
 import { BiLogoMongodb } from "react-icons/bi";
 import { SiTypescript, SiDotnet, SiPostgresql, SiExpress } from "react-icons/si";
